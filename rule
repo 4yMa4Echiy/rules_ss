@@ -1,6 +1,10 @@
 [Rule]
+
+
 DOMAIN-SUFFIX,ru,DIRECT
 DOMAIN-SUFFIX, tradingview.com, DIRECT
+
+
 GEOIP,RU,DIRECT
 
 FINAL,PROXY
